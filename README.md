@@ -26,4 +26,4 @@
 * Bluetooth_TempHumi - 블루투스 어플로 온습도 출력
   
 #[App]KSOP_Smart_House 
-* 앱인벤터 어플 파일 - KSOP 스마트 하우스
+* 앱인벤터 프로젝트 파일 - KSOP 스마트 하우스

@@ -27,3 +27,7 @@
   
 #[App]KSOP_Smart_House 
 * 앱인벤터 프로젝트 파일 - KSOP 스마트 하우스
+
+
+#CH341SER.zip
+* CH340을 사용한 SMD 타입 아두이노 보드인 경우 필수적으로 설치해야 하는 USB드라이버
